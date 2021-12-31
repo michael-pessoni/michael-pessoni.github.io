@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'https://michael-pessoni.github.io/'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: https://michael-pessoni.github.io/
 
 # Title of the Site
 title: Michael Pessoni
@@ -15,7 +15,7 @@ site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Michael, Android, Kotlin, Desenvolvedor
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url: https://i.imgur.com/WmaU1H3.png
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
@@ -43,11 +43,11 @@ disqus-shortname: michael-pessoni
 # Name of the Author
 author-name: Michael Pessoni
 # URL for the Image of the Author
-author-image: https://photos.app.goo.gl/ZjmXctiykdSXL8pK7
+author-image: https://i.imgur.com/pKFCgRP.png
 # 60 Words About the Author
 author-about: Sou  um Desenvolvedor Android  Jr apaixonado por encontrar soluções que tornem a vida das pessoas mais fácil.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://github.com/michael-pessoni
 
 # SASS
 sass:
