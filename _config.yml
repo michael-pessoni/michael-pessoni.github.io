@@ -4,7 +4,7 @@ markdown: kramdown
 # URL of the Site
 url: 'https://michael-pessoni.github.io/'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: https://michael-pessoni.github.io/
+baseurl:
 
 # Title of the Site
 title: Michael Pessoni
@@ -18,21 +18,21 @@ site-keywords: Michael, Android, Kotlin, Desenvolvedor
 favicon-url: https://i.imgur.com/WmaU1H3.png
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: https://i.imgur.com/9tZYCQL.png
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: pessoni94@gmail.com
-facebook_username: /
-twitter_username: /
+facebook_username:
+twitter_username:
 instagram_username: pessoni.dev
 linkedin_username: michael-pessoni
 github_username:  michael-pessoni
-youtube_channel_id: /
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+youtube_channel_id:
+reddit_username:
+behance_username:
+dribbble_username:
+spotify_username:
 
 # Google Analytics
 google-analytics: UA-163806439-1
